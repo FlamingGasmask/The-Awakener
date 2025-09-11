@@ -5,14 +5,19 @@
 
  Assets used:
  Book, made by a friend
- s
 
  New Additions:
  Added a Main Menu: 9/8/2025 1 hr
- Added a new weapon: 9/9/2025
- adding an restart button: 9/9/2025
- 
-Loop Additions:
+ Changed the gun to a spell book: 9/9/2025
+ adding an restart button: 9/9/2025 - 9/10/25 8 hrs (NO ONE EXPLAINED I COULD JUST GIVE IT THE WHEN PAUSED PROPERTY)
+
+ Loop Additions:
 
  Tutorials Followed:
+ Implementing a main menu:
+ https://www.youtube.com/watch?v=Z8jcjy_jZyk&list=PLhBqFleCVBkXQiE8Nm4Co_1iJJ4L7UIzr
+
+ THIS GUYS FIXED MY GAME OVER MENU:
+ https://www.youtube.com/watch?v=kn8yOGEvCo0
+
 
