@@ -8,7 +8,7 @@
 
  New Additions:
  Added a Main Menu: 9/8/2025 1 hr
- Changed the gun to a spell book: 9/9/2025
+ Changed the gun to a spell book: 9/11/2025 1hr (didnt know how to import PNGs to the game)
  adding an restart button: 9/9/2025 - 9/10/25 8 hrs (NO ONE EXPLAINED I COULD JUST GIVE IT THE WHEN PAUSED PROPERTY)
 
  Loop Additions:
@@ -19,5 +19,10 @@
 
  THIS GUYS FIXED MY GAME OVER MENU:
  https://www.youtube.com/watch?v=kn8yOGEvCo0
+
+ PNG:
+ https://www.youtube.com/watch?v=Mf_Qcwuyuwk
+
+ 
 
 
