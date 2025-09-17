@@ -15,6 +15,12 @@
  added a forest sound, 9/11/2025 30min
 
  Loop Additions:
+ tried to update art style 9/12/2025 - 9/13/25 7hrs
+ partial boss implementation 9/11/2025 - 9/16/25 failed to implement system 5hrs
+ partial soul implemenatation 9/11/2025 - 9/16/25 failed to implement system 4hrs
+ partial candel implementation 9/11/2025 - 9/16/25 failed to implement system 2hrs
+
+ mostly wasted time trying to implement a tile map and i got too lost in the sauce and didnt realize i was running out of time 
 
  Tutorials Followed:
  Implementing a main menu:
